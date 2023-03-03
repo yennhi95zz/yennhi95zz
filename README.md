@@ -15,6 +15,9 @@ I am passionate about sharing my knowledge and helping others learn. That's why 
 
 # <img src="https://user-images.githubusercontent.com/88694623/222451106-a0f59462-15e7-47e3-95de-eaa020871493.png" width="30" height="30"> My Latest Medium Articles
 
+- Mastering Bitcoin Book: Exploring the Role of Data Science in Cryptocurrencies by Andreas Antonopoulos
+
+  *Data science has been a key driver in the development of cryptocurrencies, and the book “Mastering Bitcoin” by Andreas Antonopoulos provides valuable insights into the role of data science in this field. [Read More](https://medium.com/@yennhi95zz/mastering-bitcoin-book-exploring-the-role-of-data-science-in-cryptocurrencies-by-andreas-354117d3c2e6)*
 - How Google Trains AI with Your Help through CAPTCHA
 
   *As technology continues to evolve, artificial intelligence (AI) is becoming an increasingly important part of our lives. From voice assistants to personalized ads, AI is being used to make our lives easier and more convenient. But have you ever wondered how AI is trained? [Read More](https://medium.com/@yennhi95zz/how-google-trains-ai-with-your-help-through-captcha-876cb4eb4d01)*
