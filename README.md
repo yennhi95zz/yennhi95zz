@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 Hi there!
 
 My name is Nhi and I am a Data Scientist with a background in Finance. I started my journey in Data Science and Machine Learning from scratch, so I understand the challenges that beginners in this field face.
