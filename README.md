@@ -15,6 +15,18 @@ I am passionate about sharing my knowledge and helping others learn. That's why 
 
 # <img src="https://user-images.githubusercontent.com/88694623/222451106-a0f59462-15e7-47e3-95de-eaa020871493.png" width="30" height="30"> My Latest Medium Articles
 
+- Credit Card Fraud Detection: A Hands-On Project
+  
+  *How can we minimize the risk? Although there are various techniques to decrease losses and prevent fraud, I will guide you through my approach and share my discoveries* [READ MORE](https://medium.com/@yennhi95zz/credit-card-fraud-detection-a-hands-on-project-760cad61b1da)
+  
+- From Customer Service to Data Analyst: My Journey and Tips for Beginners
+  
+  *In this article, I will highlight the key steps I took to enter the world of data, the resources I utilized, and the lessons I learned along the way* [READ MORE](https://medium.com/@yennhi95zz/from-customer-service-to-data-analyst-my-journey-and-tips-for-beginners-ec590eb51efd)
+  
+- Google’s Free Must-Take Courses for Your Machine Learning Journey in 2023
+  
+  *Top free courses offered by Google in 2023, designed to provide a solid foundation for beginners in data science and machine learning* [READ MORE](https://medium.com/@yennhi95zz/googles-free-must-take-courses-for-your-machine-learning-journey-in-2023-89d22e02ffdb)
+  
 - Mastering Bitcoin Book: Exploring the Role of Data Science in Cryptocurrencies by Andreas Antonopoulos
 
   *Data science has been a key driver in the development of cryptocurrencies, and the book “Mastering Bitcoin” by Andreas Antonopoulos provides valuable insights into the role of data science in this field. [Read More](https://medium.com/@yennhi95zz/mastering-bitcoin-book-exploring-the-role-of-data-science-in-cryptocurrencies-by-andreas-354117d3c2e6)*
@@ -24,14 +36,6 @@ I am passionate about sharing my knowledge and helping others learn. That's why 
 - The Importance of Statistics Concepts in Data Science and Machine Learning
 
   *Statistics is an integral part of Data Science and Machine Learning, providing a framework for collecting, analyzing, and interpreting data. In today’s   data-driven world, businesses and organizations require the insights provided by data to make informed decisions. [Read More](https://medium.com/@yennhi95zz/the-importance-of-statistics-concepts-in-data-science-and-machine-learning-e84451c7b67)*
-
-- Why Data Cleaning is Crucial for Machine Learning Models
-
-  *Data cleaning is a critical step in machine learning (ML) that involves identifying and correcting errors, inconsistencies, and inaccuracies in data. By cleaning data, we can improve its quality, enhance model performance, reduce bias, save time and resources, and increase user confidence. [Read More](https://medium.com/@yennhi95zz/why-data-cleaning-is-crucial-for-machine-learning-models-eb195efdafb)*
-
-- How to Choose the Right BI Tool for Your Business: A Comprehensive Comparison of the Top BI Tools 
-
-  *Business Intelligence (BI) tools are essential for modern businesses to gain insights from data, make informed decisions, and stay ahead of the competition. With so many BI tools available in the market, selecting the right one for your business can be a daunting task. [Read More](https://medium.com/@yennhi95zz/how-to-choose-the-right-bi-tool-for-your-business-a-comprehensive-comparison-of-the-top-bi-tools-5f843fb1b933)*
 
 
 
