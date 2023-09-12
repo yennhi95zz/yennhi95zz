@@ -1,4 +1,11 @@
 # 💫 About Me ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+![Author](https://img.shields.io/badge/Author-Nhi%20Yen-brightgreen)
+[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-blue)](https://medium.com/@nhiyen)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey)](https://github.com/nhiyen95)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow%20Me-orange)](https://www.kaggle.com/nhiyen95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/nhiyen95/)
+
 Hi there!
 
 My name is Nhi and I am a Data Scientist with a background in Finance. I started my journey in Data Science and Machine Learning from scratch, so I understand the challenges that beginners in this field face.
