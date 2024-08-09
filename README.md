@@ -6,13 +6,32 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow%20Me-orange)](https://www.kaggle.com/nhiyen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/yennhi95zz/)
 
-Hi there!
+Hi there! I'm Nhi.
+- Over 6 years ++ of experience in Data Analytics.
+- Full-time Analytics Engineer at IKEA and Accenture.
+- Helping others grow through technical writing.
+- Assisting start-ups in building data pipelines from scratch, even on a limited budget.
+- Playing with tech during the day and earning passive income at night.
 
-My name is Nhi and I am a Data Scientist with a background in Finance. I started my journey in Data Science and Machine Learning from scratch, so I understand the challenges that beginners in this field face.
+# 💼 Services Offered
 
-I am passionate about sharing my knowledge and helping others learn. That's why I write blogs on [Medium](https://medium.com/@yennhi95zz) and create DS/ML projects on [Kaggle](https://www.kaggle.com/nhiyen/code) & [Github](https://github.com/yennhi95zz) to explain the complexities of data in a simple and approachable way. I hope that my work is helpful to beginners in the field and that it inspires them to keep learning and growing.
+- 💼 **Career Advice**  
+- 🚀 **Project Management (Data & AI Related)**  
+- 🔄 **End-to-End Data Migration**  
+  -  **Solution Architecture**  
+  - **Data Ingestion**  
+  -  **Data Warehouse**  
+  -  **Data Visualization**
+- 🧠 **Advanced Analytics**
+  - **LLM Fine-tuning**
+  - **Predictive Modeling**
+  - **Data-Driven Decision Making**
+
+### 💡 Unique Value Proposition  
+Specializing in cost-effective, scalable solutions tailored to start-ups with limited tech knowledge and budgets.
 
 
+### ▶️ **Hire me on [Upwork](https://www.upwork.com/freelancers/~018cb35a4fd005fbff)**
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhi-yen/)
