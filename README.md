@@ -31,7 +31,7 @@ Hi there! I'm Nhi.
 Specializing in cost-effective, scalable solutions tailored to start-ups with limited tech knowledge and budgets.
 
 
-### ▶️ **Hire me on [Upwork](https://www.upwork.com/freelancers/~018cb35a4fd005fbff)**
+### ▶️ **Ready to work with Nhi? Hire me on [Upwork](https://www.upwork.com/freelancers/~018cb35a4fd005fbff)**
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhi-yen/)
