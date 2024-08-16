@@ -1,10 +1,12 @@
-# 💫 About Me ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+# 💫 About Me ![](https://komarev.com/ghpvc/?username=yennhi95zz&color=green)
 
-![Author](https://img.shields.io/badge/Author-Nhi%20Yen-brightgreen)
-[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-blue)](https://medium.com/@yennhi95zz)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey)](https://github.com/yennhi95zz)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow%20Me-orange)](https://www.kaggle.com/nhiyen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/yennhi95zz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yennhi95zz/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yennhi95zz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yennhi95zz/yennhi95zz)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nhiyen)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018cb35a4fd005fbff)
+
+---
 
 Hi there! I'm Nhi.
 - Over 6 years ++ of experience in Data Analytics.
