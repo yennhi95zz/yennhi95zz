@@ -53,6 +53,12 @@ Specializing in cost-effective, scalable solutions tailored to start-ups with li
 📍 Location: Remote  
 💰 Contact for price
 
+# Commitments
+
+- 100% Job Done: Leveraging experience and expertise to deliver results
+- <24-Hour Response: Committed to prompt communication and issue resolution
+- Client Satisfaction: Focused on delivering value and exceeding expectations
+- Continuous Improvement: Always looking for ways to optimize and enhance the process
 
 
 # Frequently Asked Questions
