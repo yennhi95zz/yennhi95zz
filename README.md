@@ -1,72 +1,65 @@
-# 💫 About Me ![](https://komarev.com/ghpvc/?username=yennhi95zz&color=green)
+![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQEP4nKohp-D6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724307959502?e=1733961600&v=beta&t=NzLs88OL2YA_424tsJOfS3f-uAC7SyJ8og-HKeMB418)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yennhi95zz/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yennhi95zz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yennhi95zz/yennhi95zz)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nhiyen)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~018cb35a4fd005fbff)
+<!-- Profile Header (Name and Titles) -->
+<div style="margin-top: 80px; text-align: left; padding: 0 40px;">
+  <h1 style="font-size: 24px; margin-bottom: 5px;">
+    Nhi Yen
+    <!-- Badge Icons (Only Icons, No Names) -->
+    <a href="https://www.linkedin.com/in/yennhi95zz/">
+      <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 5px;">
+    </a>
+    <a href="https://medium.com/@yennhi95zz">
+      <img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&logo=medium&logoColor=white" alt="Medium Icon" style="vertical-align: middle; margin-left: 5px;">
+    </a>
+    <a href="https://github.com/yennhi95zz/yennhi95zz">
+      <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" alt="GitHub Icon" style="vertical-align: middle; margin-left: 5px;">
+    </a>
+    <a href="https://www.kaggle.com/nhiyen">
+      <img src="https://img.shields.io/static/v1?label=&message=Kaggle&color=20BEFF&logo=kaggle&logoColor=white" alt="Kaggle Icon" style="vertical-align: middle; margin-left: 5px;">
+    </a>
+    <a href="https://www.upwork.com/freelancers/~018cb35a4fd005fbff">
+      <img src="https://img.shields.io/static/v1?label=&message=Upwork&color=6FDA44&logo=upwork&logoColor=white" alt="Upwork Icon" style="vertical-align: middle; margin-left: 5px;">
+    </a>
+  </h1>
+  <p style="font-size: 16px; color: gray;">Product Manager in Tech | Helping Businesses Achieve 10x Efficiency & Cost Reduction Through Digital Transformation | Data Migration, Analytics, AI & Automation | Sharing the Journey</p>
+</div>
 
----
+- Focus on digital strategy, growth strategy, and strategic cost reduction in software development.
+- Lead the development of analytics functions and drive the product delivery process for successful product launches.
+- Explore the application of AI, Machine Learning, and Generative AI to increase business ROI and profitability.
 
-Hi there! I'm Nhi.
-- Over 6 years ++ of experience in Data Analytics.
-- Full-time Analytics Engineer at IKEA and Accenture.
-- Helping others grow through technical writing.
-- Assisting start-ups in building data pipelines from scratch, even on a limited budget.
-- Playing with tech during the day and earning passive income at night.
+# Services  [![Request Services](https://img.shields.io/badge/Request%20Services-007bff?style=flat-square&logo=appveyor&logoColor=white)](https://forms.gle/aYosns49wa8MgVKj6)
 
-# 💼 Services Offered
-
-- 💼 **Career Advice**  
-- 🚀 **Project Management (Data & AI Related)**  
-- 🔄 **End-to-End Data Migration**  
-  -  **Solution Architecture**  
-  - **Data Ingestion**  
-  -  **Data Warehouse**  
-  -  **Data Visualization**
-- 🧠 **Advanced Analytics**
-  - **LLM Fine-tuning**
-  - **Predictive Modeling**
-  - **Data-Driven Decision Making**
+- **Career Advice**  
+- **Project Management (Data & AI Related)**  
+- **End-to-End Data Migration**  
+  -  Solution Architecture 
+  - Data Ingestion 
+  -  Data Warehouse 
+  -  Data Visualization
+- **Advanced Analytics**
+  - LLM Fine-tuning
+  - Predictive Modeling
+  - Data-Driven Decision Making
 
 ### 💡 Unique Value Proposition  
 Specializing in cost-effective, scalable solutions tailored to start-ups with limited tech knowledge and budgets.
 
 
-### ▶️ **Ready to work with Nhi? Hire me on [Upwork](https://www.upwork.com/freelancers/~018cb35a4fd005fbff)**
-
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhi-yen/)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yennhi95zz)
-[![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yennhi95zz)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nhiyen)
-
-# <img src="https://user-images.githubusercontent.com/88694623/222451106-a0f59462-15e7-47e3-95de-eaa020871493.png" width="30" height="30"> My Latest Medium Articles
-
-- Credit Card Fraud Detection: A Hands-On Project
-  
-  *How can we minimize the risk? Although there are various techniques to decrease losses and prevent fraud, I will guide you through my approach and share my discoveries* [READ MORE](https://medium.com/@yennhi95zz/credit-card-fraud-detection-a-hands-on-project-760cad61b1da)
-  
-- From Customer Service to Data Analyst: My Journey and Tips for Beginners
-  
-  *In this article, I will highlight the key steps I took to enter the world of data, the resources I utilized, and the lessons I learned along the way* [READ MORE](https://medium.com/@yennhi95zz/from-customer-service-to-data-analyst-my-journey-and-tips-for-beginners-ec590eb51efd)
-  
-- Google’s Free Must-Take Courses for Your Machine Learning Journey in 2023
-  
-  *Top free courses offered by Google in 2023, designed to provide a solid foundation for beginners in data science and machine learning* [READ MORE](https://medium.com/@yennhi95zz/googles-free-must-take-courses-for-your-machine-learning-journey-in-2023-89d22e02ffdb)
-  
-- Mastering Bitcoin Book: Exploring the Role of Data Science in Cryptocurrencies by Andreas Antonopoulos
-
-  *Data science has been a key driver in the development of cryptocurrencies, and the book “Mastering Bitcoin” by Andreas Antonopoulos provides valuable insights into the role of data science in this field. [Read More](https://medium.com/@yennhi95zz/mastering-bitcoin-book-exploring-the-role-of-data-science-in-cryptocurrencies-by-andreas-354117d3c2e6)*
-- How Google Trains AI with Your Help through CAPTCHA
-
-  *As technology continues to evolve, artificial intelligence (AI) is becoming an increasingly important part of our lives. From voice assistants to personalized ads, AI is being used to make our lives easier and more convenient. But have you ever wondered how AI is trained? [Read More](https://medium.com/@yennhi95zz/how-google-trains-ai-with-your-help-through-captcha-876cb4eb4d01)*
-- The Importance of Statistics Concepts in Data Science and Machine Learning
-
-  *Statistics is an integral part of Data Science and Machine Learning, providing a framework for collecting, analyzing, and interpreting data. In today’s   data-driven world, businesses and organizations require the insights provided by data to make informed decisions. [Read More](https://medium.com/@yennhi95zz/the-importance-of-statistics-concepts-in-data-science-and-machine-learning-e84451c7b67)*
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
+    <img src="https://media.licdn.com/dms/image/v2/D5633AQFDX_mKGMQtmQ/productpage-image_1128_635/productpage-image_1128_635/0/1725761416228?e=1728784800&v=beta&t=tSpmqeVtod9satKsJa-4K7mIEoWIj73uRagYAZbqW6I" alt="AI | Machine Learning | LLM Solution" style="width: 200px; height: 150px; border-radius: 8px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5633AQGXbSjEmNprAA/productpage-image_1128_635/productpage-image_1128_635/0/1725761532360?e=1728784800&v=beta&t=ZhU4UUAAoHdnq2S20N7QWyyjlL4Z6Kpdce4CRWufImY" alt="Data Warehouse | Data Pipeline (GCP, AWS, Azure)" style="width: 200px; height: 150px; border-radius: 8px;">    
+    <img src="https://media.licdn.com/dms/image/v2/D5633AQH42Qbm5jR2Qg/productpage-image_1128_635/productpage-image_1128_635/0/1725761657287?e=1728784800&v=beta&t=HpaAGJu1KUtOEnHosCkoCSdE9Sct_81fKYXuXpIh66g" alt="ERP Centralized System (SAP, Odoo, Dynamic 365, Oracle)" style="width: 200px; height: 150px; border-radius: 8px;">    
+    <img src="https://media.licdn.com/dms/image/v2/D5633AQGqeYsOQMy0Jg/productpage-image_1128_635/productpage-image_1128_635/0/1725762051204?e=1728784800&v=beta&t=TSGf5Wp_c4N39yn3MN9EmKbfOUSuj4YRLVLMtmkUbLQ" alt="Fintech (Blockchain | Crypto | Online Banking | Digital Payments" style="width: 200px; height: 150px; border-radius: 8px;">
+</div>
 
 
-❗Found the articles helpful? Get **UNLIMITED** access to every story on Medium with just **$1/week**— **[HERE](https://medium.com/@yennhi95zz/membership)**
+📍 Location: Remote  
+💰 Contact for price
+
+# Contact
+- [Request a service](https://forms.gle/aYosns49wa8MgVKj6)
+- Book a call
 
 # 💻 Tech Stack
 
