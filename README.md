@@ -30,17 +30,13 @@
 
 # Services  [![Request Services](https://img.shields.io/badge/Request%20Services-007bff?style=flat-square&logo=appveyor&logoColor=white)](https://forms.gle/aYosns49wa8MgVKj6)
 
-- **Career Advice**  
-- **Project Management (Data & AI Related)**  
-- **End-to-End Data Migration**  
-  -  Solution Architecture 
-  - Data Ingestion 
-  -  Data Warehouse 
-  -  Data Visualization
-- **Advanced Analytics**
-  - LLM Fine-tuning
-  - Predictive Modeling
-  - Data-Driven Decision Making
+1. Career Coaching
+2. Project/Product Management (Digital Transformation, Data & AI)
+  - ERP Management
+  - App Development (UX/UI, API, DB)
+  - Data Pipeline (GCP, AWS, Azure)
+  - Advanced Analytics (LLM, AI, ML)
+  - FinTech (Automation, Payments, Compliance)
 
 ### 💡 Unique Value Proposition  
 Specializing in cost-effective, scalable solutions tailored to start-ups with limited tech knowledge and budgets.
@@ -56,6 +52,17 @@ Specializing in cost-effective, scalable solutions tailored to start-ups with li
 
 📍 Location: Remote  
 💰 Contact for price
+
+
+
+## Frequently Asked Questions
+**Why don't I have a Portfolio?**
+
+I keep my client's projects CONFIDENTIAL to respect their privacy. And YOURS, too! If you'd like to see examples of my work, feel free to contact me.
+
+**Can I sign an NDA?**
+
+Absolutely, I can sign an NDA. However, the best protection is working with trustworthy professionals. I respect my clients' privacy, and my reputation is on the line. I can provide a standard NDA or feel free to send your own.
 
 # Contact
 - [Request a service](https://forms.gle/aYosns49wa8MgVKj6)
