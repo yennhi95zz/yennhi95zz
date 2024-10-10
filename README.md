@@ -5,7 +5,7 @@
   <h1 style="font-size: 24px; margin-bottom: 5px;">
     Nhi Yen
     <!-- Badge Icons (Only Icons, No Names) -->
-    <a href="https://www.linkedin.com/in/yennhi95zz/">
+    <a href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=yennhi95zz">
       <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 5px;">
     </a>
     <a href="https://medium.com/@yennhi95zz">
